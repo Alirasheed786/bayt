@@ -1,6 +1,6 @@
 # Job Scraper
 
-This project is a web scraper built with Scrapy to collect job listings and save them to a CSV file.
+This project scrapes bayt.com built with Scrapy to collect job listings and companies and save them to a CSV file.
 
 ## Prerequisites
 
